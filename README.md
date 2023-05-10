@@ -1,12 +1,12 @@
-# سلام حسین مولائی هستم یک توسعه دهنده فول استک هستم
-### این مخزن توسعه فرانت اند من هست
+## سلام من حسین مولائی ام یک توسعه دهنده فول استک وب
+#### این مخزن توسعه فرانت اند من هست
 
-## درباره من
+### درباره من
 
 **دانشجوی کارشناسی کامپیوتر هستم علاقه غیرعادی به برنامه نویسی و توسعه پروژه دارم**
 **همچنین سرعت یادگیری بسیار بالایی دارم از معایب من میتوان به وسواس در کد ها اشاره کرد (باید در بهینه** **ترین حالت ممکن باشد)**
 **و تا یادم نرفته من کد زدن در شب را خیلی بیشتر از روز دوست دارم**
-## مهارت های من
+### مهارت های من
 
         
 **Html5**  
@@ -24,7 +24,7 @@
 
 [**github**](https://github.com/hosseinmolaei3)  
 [**linkedin**](https://www.linkedin.com/in/hossein-molaei-87424a232)  
-[**instagrame**](https://instagram.com/hossein_molaei3)  
+[**instagram**](https://instagram.com/hossein_molaei3)  
 
 <!--
 **hosseinmolaei3/hosseinmolaei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
