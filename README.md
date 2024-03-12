@@ -8,19 +8,19 @@
 **و تا یادم نرفته من کد زدن در شب را خیلی بیشتر از روز دوست دارم**
 ### مهارت های من
 
-        
+**C#**  
+* Asp.Net Core
+* Asp.Net MVC
+* Winform
+* 
+**JavaScript**    
 **Html5**  
 **Css**  
-
 * flex-box
 
 **Bootstrap5**  
-**JavaScript**  
-**C#**  
-* Linq
-* Entity Freamwork
-* Asp.net MVC
-* Winform
+
+
 
 [**github**](https://github.com/hosseinmolaei3)  
 [**linkedin**](https://www.linkedin.com/in/hossein-molaei-87424a232)  
