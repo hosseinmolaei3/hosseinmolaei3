@@ -1,42 +1,28 @@
-## سلام من حسین مولائی ام یک توسعه دهنده فول استک وب
-#### این مخزن توسعه فرانت اند من هست
+# Hi, I'm Hossein Molaei
+## Full Stack Web Developer
 
-### درباره من
+### About Me
 
-**دانشجوی کارشناسی کامپیوتر هستم علاقه غیرعادی به برنامه نویسی و توسعه پروژه دارم**
-**همچنین سرعت یادگیری بسیار بالایی دارم از معایب من میتوان به وسواس در کد ها اشاره کرد (باید در بهینه** **ترین حالت ممکن باشد)**
-**و تا یادم نرفته من کد زدن در شب را خیلی بیشتر از روز دوست دارم**
-### مهارت های من
+**I'm a Computer Science undergraduate student with an unusual passion for programming and project development. I also have a very high learning speed. One of my drawbacks is being meticulous about my code (it has to be in the most optimized state). And before I forget, I prefer coding at night rather than during the day.**
 
-**C#**  
-* Asp.Net Core
-* Asp.Net MVC
-* Winform
-* 
-**JavaScript**    
-**Html5**  
-**Css**  
-* flex-box
+### My Skills
 
-**Bootstrap5**  
+**C#**
+- Asp.Net Core
+- Asp.Net MVC
+- Winform
 
+**JavaScript**
 
+**HTML5**
 
-[**github**](https://github.com/hosseinmolaei3)  
-[**linkedin**](https://www.linkedin.com/in/hossein-molaei-87424a232)  
-[**instagram**](https://instagram.com/hossein_molaei3)  
+**CSS**
+- Flexbox
 
-<!--
-**hosseinmolaei3/hosseinmolaei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bootstrap 5**
 
-Here are some ideas to get you started:
+### Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosseinmolaei3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-molaei-87424a232)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein_molaei3)
