@@ -1,3 +1,5 @@
+![Luffy from One Piece](https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/07/Luffy-smirking-and-holding-his-straw-hat.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5)
+
 # Hi, I'm Hossein Molaei
 ## Full Stack Web Developer
 
