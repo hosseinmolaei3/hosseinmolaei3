@@ -1,7 +1,7 @@
 <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/07/Luffy-smirking-and-holding-his-straw-hat.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" alt="Luffy from One Piece" style="width:100%; height:300px;">
 
 # Hi, I'm Hossein Molaei
-## Full Stack Web Developer
+## Back-End Developer (C#)
 
 ### About Me
 
@@ -10,9 +10,10 @@
 ### My Skills
 
 **C#**
-- Asp.Net Core
+- Asp.Net Core/WebApi
 - Asp.Net MVC
 - Winform
+- Sql Server/T-Sql
 
 **JavaScript**
 
